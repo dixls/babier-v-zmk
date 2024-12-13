@@ -1,0 +1,8 @@
+file_format: "1"
+id: babier_v
+name: Babier-V
+type: shield
+url: https://github.com/dixls/babier-v
+requires: [pro_micro]
+features:
+  - keys

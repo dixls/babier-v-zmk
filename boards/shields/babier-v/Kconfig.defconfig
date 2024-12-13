@@ -1,0 +1,6 @@
+if SHIELD_BABIER_V
+
+config ZMK_KEYBOARD_NAME
+  default "Babier-V"
+
+endif
