@@ -22,7 +22,7 @@
         //  Key 21 |Key 22 |Key 23 |Key 24 |Key 25 |Key 26 |Key 27 |Key 28 |Key 29 |Key 30 
             RC(2,0) RC(2,1) RC(2,2) RC(2,3) RC(2,4) RC(2,5) RC(2,6) RC(2,7) RC(2,8) RC(2,9)
         //                          Key 31 |Key 32 |Key 33 |Key 34 
-                                    RC(3,5) RC(3,6) RC(3,7) RC(3,8)
+                                    RC(3,3) RC(3,4) RC(3,5) RC(3,6)
         >;
     };
 
