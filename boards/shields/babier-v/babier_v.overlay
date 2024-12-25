@@ -5,8 +5,6 @@
     transform = <&default_transform>;
 };
 
-LOG_LEVEL_SET(CONFIG_LOG_DEFAULT_LEVEL);
-
 / {
     chosen {
         zmk,kscan = &kscan0;
