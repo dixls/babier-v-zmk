@@ -11,7 +11,7 @@
 include:
   - board: sparkfun_pro_micro_rp2040
     shield: babier_v
-    snippet: studio-rpc-usb-uart zmk-usb-logging
+    snippet: studio-rpc-usb-uart
     cmake-args: -DCONFIG_ZMK_STUDIO=y
   #   - board: nice_nano
   #     shield: babier_v
