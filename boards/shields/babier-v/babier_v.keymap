@@ -33,7 +33,6 @@
             timeout-ms = <50>;
             key-positions = <18 19>;
             bindings = <&kp RET>;
-            layers = <0>;
         };
     };
 
