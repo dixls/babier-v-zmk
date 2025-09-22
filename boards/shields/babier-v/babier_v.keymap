@@ -64,7 +64,7 @@
             bindings = <
                 &kp Q       &kp W       &kp E       &kp R &kp T     &kp Y &kp U &kp I           &kp O         &kp P
                 &kp A       &kp S       &kp D       &kp F &kp G     &kp H &kp J &kp K           &kp L         &kp SQT
-                &brm LGUI Z &brm LCTL X &brm LALT C &kp V &kp B     &kp N &kp M &brm LALT COMMA &brm LCTL DOT &brm LGUI SEMI
+                &brm LCTL Z &brm LGUI X &brm LALT C &kp V &kp B     &kp N &kp M &brm LALT COMMA &brm LGUI DOT &brm LCTL SEMI
                                   &lt MISCL TAB &lt NUM_L SPACE     &lt NAV_L BKSP &shifty
             >;
         };
@@ -74,7 +74,7 @@
             bindings = <
                 &kp N1      &kp N2   &kp N3      &kp N4    &kp N5    &kp N6   &kp N7    &kp N8    &kp N9    &kp N0
                 &kp PSCRN   &none    &kp PLUS    &kp UNDER &kp LBKT  &kp RBKT &kp MINUS &kp EQUAL &kp LBKT  &kp RBKT
-                &kp GRAVE   &kp LCTL &kp LALT   &kp PIPE   &kp LBRC  &kp RBRC &kp BSLH  &trans    &trans    &kp SLASH
+                &kp GRAVE   &kp LGUI &kp LALT   &kp PIPE   &kp LBRC  &kp RBRC &kp BSLH  &trans    &trans    &kp SLASH
                                                  &trans    &trans    &trans   &trans
             >;
         };
